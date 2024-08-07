@@ -1,0 +1,21 @@
+.ball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.message {
+    text-align:center;
+    font-size:2em;
+    color:white;
+    font-weight:bold
+}
